@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E28850F42642AC9800160ECD /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E28850F32642AC9800160ECD /* SecondViewController.m */; };
 		E2D470B32642A7B700B38545 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E2D470B22642A7B700B38545 /* AppDelegate.m */; };
 		E2D470B62642A7B700B38545 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E2D470B52642A7B700B38545 /* SceneDelegate.m */; };
 		E2D470B92642A7B700B38545 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2D470B82642A7B700B38545 /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E28850F22642AC9800160ECD /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		E28850F32642AC9800160ECD /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		E2D470AE2642A7B700B38545 /* RSSchoolClient.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSSchoolClient.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2D470B12642A7B700B38545 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		E2D470B22642A7B700B38545 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				E2D470BF2642A7BB00B38545 /* LaunchScreen.storyboard */,
 				E2D470C22642A7BB00B38545 /* Info.plist */,
 				E2D470C32642A7BB00B38545 /* main.m */,
+				E28850F22642AC9800160ECD /* SecondViewController.h */,
+				E28850F32642AC9800160ECD /* SecondViewController.m */,
 			);
 			path = RSSchoolClient;
 			sourceTree = "<group>";
@@ -266,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E28850F42642AC9800160ECD /* SecondViewController.m in Sources */,
 				E2D470B92642A7B700B38545 /* ViewController.m in Sources */,
 				E2D470B32642A7B700B38545 /* AppDelegate.m in Sources */,
 				E2D470C42642A7BB00B38545 /* main.m in Sources */,
